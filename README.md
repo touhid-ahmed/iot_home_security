@@ -4,7 +4,7 @@
 ### Brief Overview
 In this project, a real-time home surveillance system is designed that can be authorised and regulated remotely with the help of an Android application. The Android application provides useful features such as: Activation/Deactivation of the system, Password management, Live monitoring and Alert. The system utilises a real time database (Firebase) for transmitting and interpreting the communcation between the hardware and the software.
 
-**_Paper link: https://drive.google.com/file/d/1xWA8VXXbfKebmxSAMwL_y3R0Ep7lFJZQ/view_**
+**_Paper link: https://ieeexplore.ieee.org/document/9108016**
 
 
 
